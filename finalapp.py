@@ -2,7 +2,7 @@ import streamlit as st
 from PIL import Image
 import io
 import torch
-from your_backend_script import classify_meme  # Import your function
+from backend import classify_meme  # Import your function
 
 # Streamlit UI
 st.title("Meme Quality Checker")
