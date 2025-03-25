@@ -6,4 +6,4 @@ ftfy
 regex
 tqdm
 Pillow
-clip-by-openai
+git+https://github.com/openai/CLIP.git
