@@ -24,4 +24,4 @@ if uploaded_file is not None:
     if label == 0:
         st.image(image, caption="This is a good meme!", use_container_width=True)
     else:
-        st.error("This is a hateful meme containing racism, sexism, nationality, religion or disability, so it cannot be uploaded.")
+        st.error("This is a hateful meme containing racism, sexism, nationality, religion or disability, so it cannot be uploaded..")
