@@ -1,5 +1,5 @@
 import streamlit as st
-from backend import classify_meme
+#from backend import classify_meme
 from PIL import Image
 import io
 
