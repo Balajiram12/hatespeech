@@ -1,0 +1,9 @@
+streamlit
+requests
+torch
+torchvision
+ftfy
+regex
+tqdm
+Pillow
+clip
