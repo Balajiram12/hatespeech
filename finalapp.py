@@ -5,7 +5,7 @@ import torch
 from backend import classify_meme  # Import your function
 
 # Streamlit UI
-st.title("Meme Quality Checker")
+st.title("Analysis of Memes")
 st.sidebar.header("Upload Your Meme")
 
 uploaded_file = st.sidebar.file_uploader("Choose an image...", type=["jpg", "png", "jpeg"])
